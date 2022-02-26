@@ -62,6 +62,27 @@ TextureImporter:
   - first:
       213: 7959154913729419554
     second: wateredge2
+  - first:
+      213: 6606018922332637150
+    second: cliff2
+  - first:
+      213: 6798183092280629490
+    second: cliff3
+  - first:
+      213: 3660255075706844153
+    second: First Asset pack_22
+  - first:
+      213: -8260133864841022463
+    second: cliff4
+  - first:
+      213: 1995551203899477267
+    second: fenceel
+  - first:
+      213: -5831522005008966807
+    second: cliffedge1
+  - first:
+      213: -6162066289186199641
+    second: First Asset pack_26
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -273,8 +294,8 @@ TextureImporter:
         serializedVersion: 2
         x: 216
         y: 61
-        width: 16
-        height: 16
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -313,10 +334,10 @@ TextureImporter:
       name: BridgeLeg
       rect:
         serializedVersion: 2
-        x: 238
-        y: 45
-        width: 16
-        height: 16
+        x: 235
+        y: 37
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -336,8 +357,8 @@ TextureImporter:
         serializedVersion: 2
         x: 216
         y: 77
-        width: 16
-        height: 15
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -544,7 +565,7 @@ TextureImporter:
       name: wateredge
       rect:
         serializedVersion: 2
-        x: 327
+        x: 324
         y: 124
         width: 24
         height: 24
@@ -565,8 +586,8 @@ TextureImporter:
       name: wateredge2
       rect:
         serializedVersion: 2
-        x: 306
-        y: 153
+        x: 305
+        y: 151
         width: 24
         height: 24
       alignment: 0
@@ -578,6 +599,153 @@ TextureImporter:
       bones: []
       spriteID: 22995218939947e60800000000000000
       internalID: 7959154913729419554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cliff2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 121
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7452da53b4dab50800000000000000
+      internalID: 6606018922332637150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cliff3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8147d018ff75e50800000000000000
+      internalID: 6798183092280629490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: First Asset pack_22
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 121
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 3}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3b3d63996dbc230800000000000000
+      internalID: 3660255075706844153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cliff4
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 137
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104f9f4930c1e5d80800000000000000
+      internalID: -8260133864841022463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fenceel
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d088f3f3f91bb10800000000000000
+      internalID: 1995551203899477267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cliffedge1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b119712a5421fa0800000000000000
+      internalID: -5831522005008966807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: First Asset pack_26
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 35
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7a5a6ab51fb7aa0800000000000000
+      internalID: -6162066289186199641
       vertices: []
       indices: 
       edges: []
