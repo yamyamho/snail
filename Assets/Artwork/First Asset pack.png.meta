@@ -19,7 +19,7 @@ TextureImporter:
     second: cliff_edge
   - first:
       213: 1603238771598124081
-    second: fenceL
+    second: fence_end
   - first:
       213: -3467316236647503110
     second: stairs
@@ -53,6 +53,15 @@ TextureImporter:
   - first:
       213: -170779123951877861
     second: First Asset pack_16
+  - first:
+      213: 4116147641160895590
+    second: tree
+  - first:
+      213: 7034764701744924078
+    second: wateredge
+  - first:
+      213: 7959154913729419554
+    second: wateredge2
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -201,8 +210,8 @@ TextureImporter:
         serializedVersion: 2
         x: 84
         y: 119
-        width: 22
-        height: 22
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -241,10 +250,10 @@ TextureImporter:
       name: stairs
       rect:
         serializedVersion: 2
-        x: 158
-        y: 125
-        width: 20
-        height: 22
+        x: 156
+        y: 126
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -430,10 +439,10 @@ TextureImporter:
       name: grassedges_2
       rect:
         serializedVersion: 2
-        x: 236
-        y: 308
-        width: 16
-        height: 16
+        x: 228
+        y: 294
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -485,6 +494,90 @@ TextureImporter:
       bones: []
       spriteID: 0c7330a42d8df9230800000000000000
       internalID: 3647872620889847744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fence_end
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 240
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1346d3f1b29df3610800000000000000
+      internalID: 1603238771598124081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 239
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c057aa87e7f1930800000000000000
+      internalID: 4116147641160895590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateredge
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 124
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea586f5793180a160800000000000000
+      internalID: 7034764701744924078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wateredge2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 153
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22995218939947e60800000000000000
+      internalID: 7959154913729419554
       vertices: []
       indices: 
       edges: []
