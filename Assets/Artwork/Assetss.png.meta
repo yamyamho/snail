@@ -13,7 +13,7 @@ TextureImporter:
     second: scrap1
   - first:
       213: -1409935547604188682
-    second: Assetss_3
+    second: scrap2
   - first:
       213: -6216390666883608661
     second: flower
@@ -187,13 +187,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Assetss_3
+      name: scrap2
       rect:
         serializedVersion: 2
-        x: 180
+        x: 181
         y: 179
-        width: 26
-        height: 24
+        width: 25
+        height: 23
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -258,7 +258,7 @@ TextureImporter:
         width: 38
         height: 35
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
