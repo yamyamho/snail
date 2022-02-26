@@ -11,5 +11,5 @@ public class Portal : Collidable
             UnityEngine.SceneManagement.SceneManager.LoadScene("Scene2");
         }
     }
-
+     
 }
