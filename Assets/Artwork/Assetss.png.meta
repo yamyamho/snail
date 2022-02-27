@@ -23,6 +23,9 @@ TextureImporter:
   - first:
       213: 950211021067478709
     second: snail_friend
+  - first:
+      213: 3177621934097856088
+    second: house
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -266,6 +269,27 @@ TextureImporter:
       bones: []
       spriteID: 5b66364a3e3df2d00800000000000000
       internalID: 950211021067478709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 300
+        width: 53
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8567464305e291c20800000000000000
+      internalID: 3177621934097856088
       vertices: []
       indices: 
       edges: []
