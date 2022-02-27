@@ -8,6 +8,7 @@ public class player : MonoBehaviour
     private Vector3 moveDelta;
     private RaycastHit2D hit;
 
+
     private void Start()
     {
         boxCollider = GetComponent<BoxCollider2D>();
